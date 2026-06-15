@@ -231,14 +231,21 @@ nav {
 /* PROJECTS */
 
 .project__list {
-  padding-top: 48px;
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 40px;
+  padding-top: 48px;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
 }
 
 .project {
-  margin-bottom: 24px;
+  list-style: none;
+}
+
+.project__img {
+  margin-bottom: 120px;
 }
 
 .project__wrapper {
