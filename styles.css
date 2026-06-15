@@ -338,6 +338,45 @@ nav {
 .project:hover .project__description {
   opacity: 1;
 }
+--footer--
+footer {
+  background-color: black;
+}
+
+.footer__row {
+  padding: 8% 0%;
+  text-align: center;
+}
+
+.footer__logo--img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 20px;
+}
+
+.footer__social--list {
+  margin-bottom: 20px;
+}
+
+.footer__social--link {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+.footer__social--link:hover {
+  color: purple;
+}
+
+.footer__copyright {
+  color: white;
+  font-size: 14px;
+}
+
+
+
+
 
 
 
